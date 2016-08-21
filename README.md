@@ -1,5 +1,4 @@
-# Udemy
-Data Science and Machine Learning with Python
+Analytics and Business Intelligence (with Python)
 
 Covered more machine learning and data mining techniques, including:
 
